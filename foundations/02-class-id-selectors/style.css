@@ -1,0 +1,21 @@
+/* style.css */
+
+.odd {
+    background-color: #ffb6c1;
+    font-family: DejaVu Sans, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second-element {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd#unique {
+    font-size: 24px;
+}
+
+#green {
+    background-color: #008000;
+    font-size: 24px;
+    font-weight: bold; 
+}
