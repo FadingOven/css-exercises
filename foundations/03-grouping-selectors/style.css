@@ -1,0 +1,15 @@
+/* style.css */
+
+.yes {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.no {
+    background-color: rgb(255, 255, 0);
+}
+
+.yes.no {
+    font-size: 28px;
+    font-family: 'Times New Roman', 'Helvetica', 'Sans-serif';
+}
